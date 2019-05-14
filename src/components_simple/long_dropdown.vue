@@ -3,7 +3,7 @@
  * @Date: 2019-05-14 19:18:45 
  * @Email: 515897141@qq.com 
  * @Last Modified by: 李伟龙_weilong
- * @Last Modified time: 2019-05-14 19:19:09
+ * @Last Modified time: 2019-05-14 19:46:00
  */
 <!-- 组件使用说明↓↓↓↓↓↓↓↓↓↓
     下拉列表 defaultVal Array （必传）
@@ -79,6 +79,7 @@ export default {
   border-bottom: 1px solid #fff;
   background-color: #f2f2f2;
   cursor: pointer;
+  text-align: center;
 }
 .dropdown_box .drop_list .item:hover{
   background-color: #ff963d;
